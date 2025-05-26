@@ -91,5 +91,10 @@
     "patchedDependencies": {
       "next-auth@4.24.11": "patches/next-auth@4.24.11.patch"
     }
+  },
+  "dependencies": {
+    "@clickhouse/client": "^1.11.1",
+    "axios": "^1.9.0",
+    "pg": "^8.16.0"
   }
 }
